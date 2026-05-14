@@ -45,11 +45,9 @@ I enjoy transforming raw data into meaningful insights and interactive dashboard
 ---
 
 ### 📫 Connect With Me
-<p align="center">
   <a href="https://www.facebook.com/bishal.adhikari.94695" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="40" />
   </a>
-</p>
 
 <a href="https://instagram.com/bishaladhikari859" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" />
