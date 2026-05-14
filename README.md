@@ -39,8 +39,8 @@ I enjoy transforming raw data into meaningful insights and interactive dashboard
 
 ### 🌐 Portfolio & Projects
 
-- 🔗 Portfolio Website: <a href="https://www.odgnepal.com/" target="_blank">www.odgnepal.com</a>
-- 📁 Projects: <a href="https://www.odgnepal.com/" target="_blank">View My Work</a>
+- 🔗 Portfolio Website: <a href="https://github.com/bishaladhikari-analysis/Netflix_project" target="_blank">www.odgnepal.com</a>
+- 📁 Projects: <a href="https://github.com/bishaladhikari-analysis/Netflix_project" target="_blank">View My Work</a>
 
 ---
 
